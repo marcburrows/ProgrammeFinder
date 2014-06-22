@@ -1,0 +1,14 @@
+.result {
+	width:500px;
+	clear:both;
+	float:left;
+	border:1px solid #000;
+}
+
+.result .episodes{
+	padding-left:20px;	
+}
+.pagination {
+	clear:both;
+	float:left;
+}
